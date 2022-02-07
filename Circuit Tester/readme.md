@@ -1,3 +1,5 @@
+sch: https://www.harborfreight.com/search?q=circuit%20tester
+
 # 6/12 Volt
 cheapest:
 https://www.harborfreight.com/6-12-volt-circuit-tester-4288.html
